@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(234, 226, 226);
+}
+header{
+    background-color: #444;
+    color: white;
+    height: 50px;
+    padding-left: 800px;
+    padding-top: 20px;
+    font-size: 20px;
+    
+}
+nav,div{
+   display: flex; 
+   justify-content: space-evenly;
+}
+
+
+.vv{
+    float: left;
+    border-radius: 50px;
+    width: 400px;
+    margin-right: 20px;
+}
+.pp{
+    font-size:18px;
+    margin-left:20px;
+}
+.cc{
+    float: left;
+    border-radius:50px;
+    margin-right: 20px;
+}
+.green{
+height: 410px;
+width: 410px;
+border-radius: 30px; 
+}
+.yellow{
+    height: 410px;
+    width: 410px;
+    border-radius: 30px; 
+
+}
+.red{
+    height: 410px;
+    width: 410px;
+    border-radius: 30px; 
+
+}
+.blue{
+    height: 410px;
+    width: 410px;
+    border-radius: 30px; 
+}
+.pink{
+    height: 410px;
+    width: 410px;
+    border-radius: 30px;
+}
+.purple{
+    height: 410px;
+    width: 410px;
+    border-radius: 30px;
+}
+footer{
+    color: white;
+    background-color:#444;
+    
+
+    
+}
+.Phone{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Email{
+    display: flex;
+    text-align: center;
+}
+.Address{
+    text-align: center;
+}
+.ho:hover{
+    background-color:rgb(134, 81, 28);
+    cursor: pointer;
+}
+.ab:hover{
+    background-color:rgb(134, 81, 28);
+    cursor: pointer;
+}
+.re:hover{
+    background-color:rgb(134, 81, 28);
+    cursor: pointer;
+}
+.con:hover{
+    background-color:rgb(134, 81, 28);
+    cursor: pointer;
+}
